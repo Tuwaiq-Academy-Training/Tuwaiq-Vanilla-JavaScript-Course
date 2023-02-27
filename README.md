@@ -50,7 +50,7 @@ Hi Everyone, Welcome to Vanilla-JavaScript-Course. This repository contains info
 | Week1| 4   |        |     |
 | Week1| 5   |        |     | 
 | Week1| 5   |[Week-One-Project]()|[Week-One-Project]() | [Week-One-Project]()
-| Week2| 1   |[Introduction to JavaScript]()|[Introduction to JavaScript-lab]()|[Introduction to JavaScript-Hw]()
+| Week2| 1   |[Introduction to JavaScript](https://github.com/Tuwaiq-Academy-Training/Introduction-to-JavaScript/blob/main/README.md)|[Introduction to JavaScript-lab]()|[Introduction to JavaScript-Hw]()
 | Week2| 2   |[Advanced-JavaScript]()|[Advanced-JavaScript]()|[Advanced-JavaScript]()
 | Week2| 3   |[Object-oriented programming (OOP)]()|[Object-oriented programming (OOP)-lab]()|[Object-oriented programming (OOP)-Hw]()
 | Week2| 4   |[Document Object Model (DOM) ]()|[Document Object Model (DOM) -Lab]()|[Document Object Model (DOM) -HW]()
