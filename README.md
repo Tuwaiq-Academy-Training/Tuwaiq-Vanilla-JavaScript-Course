@@ -43,11 +43,10 @@
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week1| 1   |        |     |
-| Week1| 2   |        |     |
-| Week1| 3   |        |     |
-| Week1| 4   |        |     |
-| Week1| 5   |        |     | 
+| Week1| 1   |   [Intro-To-World-Wide-Web]()     |[Intro-To-World-Wide-Web-lap]()     |[Intro-To-World-Wide-Web-hw]()
+| Week1| 2   |     [html]()   |[html-lab]()     |[html-hw]()
+| Week1| 3   |    [CSS]()    |[CSS-lab]()     |[css-hw]()
+| Week1| 4   |    [Bootstrap]()    | [Bootstrap-lap]()    |[Bootstrap-hw]()
 | Week1| 5   |[Week-One-Project]()|[Week-One-Project]() | [Week-One-Project]()
 | Week2| 1   |[Introduction to JavaScript](https://github.com/Tuwaiq-Academy-Training/Introduction-to-JavaScript/blob/main/README.md)|[Introduction to JavaScript-lab]()|[Introduction to JavaScript-Hw]()
 | Week2| 2   |[Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript)|[Advanced-JavaScript]()|[Advanced-JavaScript]()
