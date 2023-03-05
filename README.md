@@ -1,26 +1,25 @@
 # Tuwaiq-Vanilla-JavaScript-Course
+مرحبا , اهلا بكم في دورة مقدمة في تطوير الويب ( Vanilla-JavaScript) , هذه الصفحة تحتوي على معلومات و مواعيد الدوره , الدروس ,التمارين و الواجبات .
 
-Hi Everyone, Welcome to Vanilla-JavaScript-Course. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
-
-## Schedule
-|  | Days | Time |
+## المواعيد
+|  | اليوم | الوقت |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 11am - 3pm  |
+| المحاضرة  | الأحد - الخميس  | 11am - 3pm  |
 
 
 
-## Unit 1 \(Web Development Essentials \)
+## الوحدة الاولى  1 \(Web Development Essentials \)
 
-| Topics |
+| المواضيع |
 | :--- |
 | HTML, CSS |
 | Bootstrap|
 
 
 
-## Unit 2 \(Web Development with React \)
+## الوحدة الثانية  2 \(Web Development with JS \)
 
-| Topics |
+| المواضيع |
 | :--- |
 | JavaScript,Advanced JS,  |
 
@@ -29,18 +28,18 @@ Hi Everyone, Welcome to Vanilla-JavaScript-Course. This repository contains info
 
 
 
-## What We Expect From You
-### Graduation Requirements
-* Complete and submit all assignments.
-* Maintain consistent attendance.
-* Complete and submit the all projects.
-### Additional Expectations
-* Be present.
-* Contribute constructively.
-* Work hard.
-* Ask questions.
-* Be supportive.
-* Talk to us
+## المطلوب من المتدرب 
+### شروط إجتياز الدورة 
+* إكمال وتسليم جميع التمارين و الوجبات.
+* الحضور في الوقت .
+* إكمال و تسليم جميع المشاريع المطلوبة .
+### نصائح إضافية
+* كن صبورا.
+* تفاعل في المحاضرة و النقاشات .
+* إعمل بجد.
+* إسال وناقش .
+* ساعد وتعاون مع المتدربين .
+* تواصل معنا في حال إحتياجك إلى اي مساعدة .
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
