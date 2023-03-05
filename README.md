@@ -53,7 +53,7 @@ Hi Everyone, Welcome to Vanilla-JavaScript-Course. This repository contains info
 | Week2| 1   |[Introduction to JavaScript](https://github.com/Tuwaiq-Academy-Training/Introduction-to-JavaScript/blob/main/README.md)|[Introduction to JavaScript-lab]()|[Introduction to JavaScript-Hw]()
 | Week2| 2   |[Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript)|[Advanced-JavaScript]()|[Advanced-JavaScript]()
 | Week2| 3   |[Advanced-JavaScript-2](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-Vanilla-JavaScript-Course-Day8/blob/main/README.md)|[Advanced-JavaScript-2-lab]()|[Advanced-JavaScript-Hw]()
-| Week2| 4   |[Document Object Model (DOM) ]()|[Document Object Model (DOM) -Lab]()|[Document Object Model (DOM) -HW]()
+| Week2| 4   |[Document Object Model (DOM) ](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-DOM-JavaScript-Course/blob/main/README.m)|[Document Object Model (DOM) -Lab]()|[Document Object Model (DOM) -HW]()
 | Week2| 5   |[Project]()|[Project]() | [Project]()
 
 
